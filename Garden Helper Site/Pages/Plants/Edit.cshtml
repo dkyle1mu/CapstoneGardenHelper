@@ -1,0 +1,80 @@
+﻿@page
+@model Garden_Helper_Site.Pages.Plants.EditModel
+
+@{
+    ViewData["Title"] = "Edit";
+}
+
+<h1>Edit</h1>
+
+<h4>Plant</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form method="post">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <input type="hidden" asp-for="Plant.ID" />
+            <div class="form-group">
+                <label asp-for="Plant.water_interval" class="control-label"></label>
+                <input asp-for="Plant.water_interval" class="form-control" />
+                <span asp-validation-for="Plant.water_interval" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Plant.time_till_water" class="control-label"></label>
+                <input asp-for="Plant.time_till_water" class="form-control" />
+                <span asp-validation-for="Plant.time_till_water" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Plant.fertilizer_interval" class="control-label"></label>
+                <input asp-for="Plant.fertilizer_interval" class="form-control" />
+                <span asp-validation-for="Plant.fertilizer_interval" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Plant.time_till_fertilizer" class="control-label"></label>
+                <input asp-for="Plant.time_till_fertilizer" class="form-control" />
+                <span asp-validation-for="Plant.time_till_fertilizer" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Plant.maintenance_type" class="control-label"></label>
+                <input asp-for="Plant.maintenance_type" class="form-control" />
+                <span asp-validation-for="Plant.maintenance_type" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Plant.maintenance_interval" class="control-label"></label>
+                <input asp-for="Plant.maintenance_interval" class="form-control" />
+                <span asp-validation-for="Plant.maintenance_interval" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Plant.time_till_maintenance" class="control-label"></label>
+                <input asp-for="Plant.time_till_maintenance" class="form-control" />
+                <span asp-validation-for="Plant.time_till_maintenance" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Plant.Name" class="control-label"></label>
+                <input asp-for="Plant.Name" class="form-control" />
+                <span asp-validation-for="Plant.Name" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Plant.plant_date" class="control-label"></label>
+                <input asp-for="Plant.plant_date" class="form-control" />
+                <span asp-validation-for="Plant.plant_date" class="text-danger"></span>
+            </div>
+            <div class="form-group form-check">
+                <label class="form-check-label">
+                    <input class="form-check-input" asp-for="Plant.growing" /> @Html.DisplayNameFor(model => model.Plant.growing)
+                </label>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Save" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-page="./Index">Back to List</a>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}

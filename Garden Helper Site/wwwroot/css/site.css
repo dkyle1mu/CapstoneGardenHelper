@@ -1,0 +1,39 @@
+html {
+  font-size: 14px;
+}
+
+@media (min-width: 768px) {
+  html {
+    font-size: 16px;
+  }
+}
+
+html {
+  position: relative;
+  min-height: 100%;
+}
+
+body {
+  margin-bottom: 60px;
+}
+
+.plant_preview {
+    position: relative;
+    padding: 10px 10px;
+    background-color: #e0d392;
+    border-radius: 5px;
+    width: 400px;
+    height: 400px;
+    margin: 10px;
+    box-shadow: 0 2px 4px 0 rgba(0,0,0,0.16),0 2px 10px 0 rgba(0,0,0,0.12) !important;
+    
+}
+.planted_date{
+    position:absolute;
+    top: 0;
+    right: 0;
+    margin: 10px 10px;
+                 }
+.plant_image{
+    margin: 2px
+}
