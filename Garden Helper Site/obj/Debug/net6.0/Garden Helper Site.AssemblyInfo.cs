@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Garden Helper Site")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+38f9177930ddc615a45e54fe674c5297b2261cd4")]
 [assembly: System.Reflection.AssemblyProductAttribute("Garden Helper Site")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Garden Helper Site")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

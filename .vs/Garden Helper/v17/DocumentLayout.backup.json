@@ -3,24 +3,60 @@
   "WorkspaceRootPath": "C:\\Users\\dylan\\Documents\\Capstone\\Garden Helper\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{204202A3-4A21-44D0-BA7B-2C3A3F335282}|Garden Helper Site\\Garden Helper Site.csproj|c:\\users\\dylan\\documents\\capstone\\garden helper\\garden helper site\\migrations\\20250922030935_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{204202A3-4A21-44D0-BA7B-2C3A3F335282}|Garden Helper Site\\Garden Helper Site.csproj|solutionrelative:garden helper site\\migrations\\20250922030935_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{204202A3-4A21-44D0-BA7B-2C3A3F335282}|Garden Helper Site\\Garden Helper Site.csproj|c:\\users\\dylan\\documents\\capstone\\garden helper\\garden helper site\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{204202A3-4A21-44D0-BA7B-2C3A3F335282}|Garden Helper Site\\Garden Helper Site.csproj|solutionrelative:garden helper site\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{204202A3-4A21-44D0-BA7B-2C3A3F335282}|Garden Helper Site\\Garden Helper Site.csproj|c:\\users\\dylan\\documents\\capstone\\garden helper\\garden helper site\\pages\\plants\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{204202A3-4A21-44D0-BA7B-2C3A3F335282}|Garden Helper Site\\Garden Helper Site.csproj|solutionrelative:garden helper site\\pages\\plants\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{204202A3-4A21-44D0-BA7B-2C3A3F335282}|Garden Helper Site\\Garden Helper Site.csproj|c:\\users\\dylan\\documents\\capstone\\garden helper\\garden helper site\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{204202A3-4A21-44D0-BA7B-2C3A3F335282}|Garden Helper Site\\Garden Helper Site.csproj|solutionrelative:garden helper site\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{204202A3-4A21-44D0-BA7B-2C3A3F335282}|Garden Helper Site\\Garden Helper Site.csproj|c:\\users\\dylan\\documents\\capstone\\garden helper\\garden helper site\\models\\plant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{204202A3-4A21-44D0-BA7B-2C3A3F335282}|Garden Helper Site\\Garden Helper Site.csproj|solutionrelative:garden helper site\\models\\plant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{204202A3-4A21-44D0-BA7B-2C3A3F335282}|Garden Helper Site\\Garden Helper Site.csproj|c:\\users\\dylan\\documents\\capstone\\garden helper\\garden helper site\\pages\\plants\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{204202A3-4A21-44D0-BA7B-2C3A3F335282}|Garden Helper Site\\Garden Helper Site.csproj|solutionrelative:garden helper site\\pages\\plants\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{204202A3-4A21-44D0-BA7B-2C3A3F335282}|Garden Helper Site\\Garden Helper Site.csproj|c:\\users\\dylan\\documents\\capstone\\garden helper\\garden helper site\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{204202A3-4A21-44D0-BA7B-2C3A3F335282}|Garden Helper Site\\Garden Helper Site.csproj|solutionrelative:garden helper site\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{204202A3-4A21-44D0-BA7B-2C3A3F335282}|Garden Helper Site\\Garden Helper Site.csproj|c:\\users\\dylan\\documents\\capstone\\garden helper\\garden helper site\\pages\\inventoryexample.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{204202A3-4A21-44D0-BA7B-2C3A3F335282}|Garden Helper Site\\Garden Helper Site.csproj|solutionrelative:garden helper site\\pages\\inventoryexample.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{204202A3-4A21-44D0-BA7B-2C3A3F335282}|Garden Helper Site\\Garden Helper Site.csproj|c:\\users\\dylan\\documents\\capstone\\garden helper\\garden helper site\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{204202A3-4A21-44D0-BA7B-2C3A3F335282}|Garden Helper Site\\Garden Helper Site.csproj|solutionrelative:garden helper site\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{204202A3-4A21-44D0-BA7B-2C3A3F335282}|Garden Helper Site\\Garden Helper Site.csproj|c:\\users\\dylan\\documents\\capstone\\garden helper\\garden helper site\\pages\\plants\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{204202A3-4A21-44D0-BA7B-2C3A3F335282}|Garden Helper Site\\Garden Helper Site.csproj|solutionrelative:garden helper site\\pages\\plants\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{204202A3-4A21-44D0-BA7B-2C3A3F335282}|Garden Helper Site\\Garden Helper Site.csproj|c:\\users\\dylan\\documents\\capstone\\garden helper\\garden helper site\\pages\\plants\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{204202A3-4A21-44D0-BA7B-2C3A3F335282}|Garden Helper Site\\Garden Helper Site.csproj|solutionrelative:garden helper site\\pages\\plants\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{204202A3-4A21-44D0-BA7B-2C3A3F335282}|Garden Helper Site\\Garden Helper Site.csproj|c:\\users\\dylan\\documents\\capstone\\garden helper\\garden helper site\\pages\\plants\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{204202A3-4A21-44D0-BA7B-2C3A3F335282}|Garden Helper Site\\Garden Helper Site.csproj|solutionrelative:garden helper site\\pages\\plants\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{204202A3-4A21-44D0-BA7B-2C3A3F335282}|Garden Helper Site\\Garden Helper Site.csproj|c:\\users\\dylan\\documents\\capstone\\garden helper\\garden helper site\\pages\\plants\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{204202A3-4A21-44D0-BA7B-2C3A3F335282}|Garden Helper Site\\Garden Helper Site.csproj|solutionrelative:garden helper site\\pages\\plants\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{204202A3-4A21-44D0-BA7B-2C3A3F335282}|Garden Helper Site\\Garden Helper Site.csproj|c:\\users\\dylan\\documents\\capstone\\garden helper\\garden helper site\\pages\\plants\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{204202A3-4A21-44D0-BA7B-2C3A3F335282}|Garden Helper Site\\Garden Helper Site.csproj|solutionrelative:garden helper site\\pages\\plants\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{204202A3-4A21-44D0-BA7B-2C3A3F335282}|Garden Helper Site\\Garden Helper Site.csproj|c:\\users\\dylan\\documents\\capstone\\garden helper\\garden helper site\\pages\\plants\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{204202A3-4A21-44D0-BA7B-2C3A3F335282}|Garden Helper Site\\Garden Helper Site.csproj|solutionrelative:garden helper site\\pages\\plants\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{204202A3-4A21-44D0-BA7B-2C3A3F335282}|Garden Helper Site\\Garden Helper Site.csproj|c:\\users\\dylan\\documents\\capstone\\garden helper\\garden helper site\\data\\garden_helper_sitecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{204202A3-4A21-44D0-BA7B-2C3A3F335282}|Garden Helper Site\\Garden Helper Site.csproj|solutionrelative:garden helper site\\data\\garden_helper_sitecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{204202A3-4A21-44D0-BA7B-2C3A3F335282}|Garden Helper Site\\Garden Helper Site.csproj|c:\\users\\dylan\\documents\\capstone\\garden helper\\garden helper site\\migrations\\20250922030935_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{204202A3-4A21-44D0-BA7B-2C3A3F335282}|Garden Helper Site\\Garden Helper Site.csproj|solutionrelative:garden helper site\\migrations\\20250922030935_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{204202A3-4A21-44D0-BA7B-2C3A3F335282}|Garden Helper Site\\Garden Helper Site.csproj|c:\\users\\dylan\\documents\\capstone\\garden helper\\garden helper site\\pages\\plants\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{204202A3-4A21-44D0-BA7B-2C3A3F335282}|Garden Helper Site\\Garden Helper Site.csproj|solutionrelative:garden helper site\\pages\\plants\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{204202A3-4A21-44D0-BA7B-2C3A3F335282}|Garden Helper Site\\Garden Helper Site.csproj|c:\\users\\dylan\\documents\\capstone\\garden helper\\garden helper site\\pages\\plants\\delete.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -31,44 +67,12 @@
       "RelativeMoniker": "D:0:0:{204202A3-4A21-44D0-BA7B-2C3A3F335282}|Garden Helper Site\\Garden Helper Site.csproj|solutionrelative:garden helper site\\pages\\plants\\details.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{204202A3-4A21-44D0-BA7B-2C3A3F335282}|Garden Helper Site\\Garden Helper Site.csproj|c:\\users\\dylan\\documents\\capstone\\garden helper\\garden helper site\\pages\\plants\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{204202A3-4A21-44D0-BA7B-2C3A3F335282}|Garden Helper Site\\Garden Helper Site.csproj|solutionrelative:garden helper site\\pages\\plants\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{204202A3-4A21-44D0-BA7B-2C3A3F335282}|Garden Helper Site\\Garden Helper Site.csproj|c:\\users\\dylan\\documents\\capstone\\garden helper\\garden helper site\\pages\\plants\\edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{204202A3-4A21-44D0-BA7B-2C3A3F335282}|Garden Helper Site\\Garden Helper Site.csproj|solutionrelative:garden helper site\\pages\\plants\\edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{204202A3-4A21-44D0-BA7B-2C3A3F335282}|Garden Helper Site\\Garden Helper Site.csproj|c:\\users\\dylan\\documents\\capstone\\garden helper\\garden helper site\\pages\\plants\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{204202A3-4A21-44D0-BA7B-2C3A3F335282}|Garden Helper Site\\Garden Helper Site.csproj|solutionrelative:garden helper site\\pages\\plants\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{204202A3-4A21-44D0-BA7B-2C3A3F335282}|Garden Helper Site\\Garden Helper Site.csproj|c:\\users\\dylan\\documents\\capstone\\garden helper\\garden helper site\\pages\\plants\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{204202A3-4A21-44D0-BA7B-2C3A3F335282}|Garden Helper Site\\Garden Helper Site.csproj|solutionrelative:garden helper site\\pages\\plants\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{204202A3-4A21-44D0-BA7B-2C3A3F335282}|Garden Helper Site\\Garden Helper Site.csproj|c:\\users\\dylan\\documents\\capstone\\garden helper\\garden helper site\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{204202A3-4A21-44D0-BA7B-2C3A3F335282}|Garden Helper Site\\Garden Helper Site.csproj|solutionrelative:garden helper site\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{204202A3-4A21-44D0-BA7B-2C3A3F335282}|Garden Helper Site\\Garden Helper Site.csproj|c:\\users\\dylan\\documents\\capstone\\garden helper\\garden helper site\\data\\garden_helper_sitecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{204202A3-4A21-44D0-BA7B-2C3A3F335282}|Garden Helper Site\\Garden Helper Site.csproj|solutionrelative:garden helper site\\data\\garden_helper_sitecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{204202A3-4A21-44D0-BA7B-2C3A3F335282}|Garden Helper Site\\Garden Helper Site.csproj|c:\\users\\dylan\\documents\\capstone\\garden helper\\garden helper site\\models\\plant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{204202A3-4A21-44D0-BA7B-2C3A3F335282}|Garden Helper Site\\Garden Helper Site.csproj|solutionrelative:garden helper site\\models\\plant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{204202A3-4A21-44D0-BA7B-2C3A3F335282}|Garden Helper Site\\Garden Helper Site.csproj|c:\\users\\dylan\\documents\\capstone\\garden helper\\garden helper site\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{204202A3-4A21-44D0-BA7B-2C3A3F335282}|Garden Helper Site\\Garden Helper Site.csproj|solutionrelative:garden helper site\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{204202A3-4A21-44D0-BA7B-2C3A3F335282}|Garden Helper Site\\Garden Helper Site.csproj|c:\\users\\dylan\\documents\\capstone\\garden helper\\garden helper site\\pages\\inventoryexample.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{204202A3-4A21-44D0-BA7B-2C3A3F335282}|Garden Helper Site\\Garden Helper Site.csproj|solutionrelative:garden helper site\\pages\\inventoryexample.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{204202A3-4A21-44D0-BA7B-2C3A3F335282}|Garden Helper Site\\Garden Helper Site.csproj|c:\\users\\dylan\\documents\\capstone\\garden helper\\garden helper site\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{204202A3-4A21-44D0-BA7B-2C3A3F335282}|Garden Helper Site\\Garden Helper Site.csproj|solutionrelative:garden helper site\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     }
   ],
   "DocumentGroupContainers": [
@@ -78,102 +82,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 10,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "20250922030935_InitialCreate.cs",
-              "DocumentMoniker": "C:\\Users\\dylan\\Documents\\Capstone\\Garden Helper\\Garden Helper Site\\Migrations\\20250922030935_InitialCreate.cs",
-              "RelativeDocumentMoniker": "Garden Helper Site\\Migrations\\20250922030935_InitialCreate.cs",
-              "ToolTip": "C:\\Users\\dylan\\Documents\\Capstone\\Garden Helper\\Garden Helper Site\\Migrations\\20250922030935_InitialCreate.cs",
-              "RelativeToolTip": "Garden Helper Site\\Migrations\\20250922030935_InitialCreate.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-22T03:09:35.932Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Index.cshtml.cs",
-              "DocumentMoniker": "C:\\Users\\dylan\\Documents\\Capstone\\Garden Helper\\Garden Helper Site\\Pages\\Plants\\Index.cshtml.cs",
-              "RelativeDocumentMoniker": "Garden Helper Site\\Pages\\Plants\\Index.cshtml.cs",
-              "ToolTip": "C:\\Users\\dylan\\Documents\\Capstone\\Garden Helper\\Garden Helper Site\\Pages\\Plants\\Index.cshtml.cs",
-              "RelativeToolTip": "Garden Helper Site\\Pages\\Plants\\Index.cshtml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAANAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-21T18:03:09.548Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\dylan\\Documents\\Capstone\\Garden Helper\\Garden Helper Site\\Pages\\Plants\\Index.cshtml",
-              "RelativeDocumentMoniker": "Garden Helper Site\\Pages\\Plants\\Index.cshtml",
-              "ToolTip": "C:\\Users\\dylan\\Documents\\Capstone\\Garden Helper\\Garden Helper Site\\Pages\\Plants\\Index.cshtml",
-              "RelativeToolTip": "Garden Helper Site\\Pages\\Plants\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-09-21T18:03:09.466Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Delete.cshtml.cs",
-              "DocumentMoniker": "C:\\Users\\dylan\\Documents\\Capstone\\Garden Helper\\Garden Helper Site\\Pages\\Plants\\Delete.cshtml.cs",
-              "RelativeDocumentMoniker": "Garden Helper Site\\Pages\\Plants\\Delete.cshtml.cs",
-              "ToolTip": "C:\\Users\\dylan\\Documents\\Capstone\\Garden Helper\\Garden Helper Site\\Pages\\Plants\\Delete.cshtml.cs",
-              "RelativeToolTip": "Garden Helper Site\\Pages\\Plants\\Delete.cshtml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-21T18:03:09.366Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Delete.cshtml",
-              "DocumentMoniker": "C:\\Users\\dylan\\Documents\\Capstone\\Garden Helper\\Garden Helper Site\\Pages\\Plants\\Delete.cshtml",
-              "RelativeDocumentMoniker": "Garden Helper Site\\Pages\\Plants\\Delete.cshtml",
-              "ToolTip": "C:\\Users\\dylan\\Documents\\Capstone\\Garden Helper\\Garden Helper Site\\Pages\\Plants\\Delete.cshtml",
-              "RelativeToolTip": "Garden Helper Site\\Pages\\Plants\\Delete.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAABGAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-09-21T18:03:09.281Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Details.cshtml.cs",
-              "DocumentMoniker": "C:\\Users\\dylan\\Documents\\Capstone\\Garden Helper\\Garden Helper Site\\Pages\\Plants\\Details.cshtml.cs",
-              "RelativeDocumentMoniker": "Garden Helper Site\\Pages\\Plants\\Details.cshtml.cs",
-              "ToolTip": "C:\\Users\\dylan\\Documents\\Capstone\\Garden Helper\\Garden Helper Site\\Pages\\Plants\\Details.cshtml.cs",
-              "RelativeToolTip": "Garden Helper Site\\Pages\\Plants\\Details.cshtml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-21T18:03:09.196Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Details.cshtml",
-              "DocumentMoniker": "C:\\Users\\dylan\\Documents\\Capstone\\Garden Helper\\Garden Helper Site\\Pages\\Plants\\Details.cshtml",
-              "RelativeDocumentMoniker": "Garden Helper Site\\Pages\\Plants\\Details.cshtml",
-              "ToolTip": "C:\\Users\\dylan\\Documents\\Capstone\\Garden Helper\\Garden Helper Site\\Pages\\Plants\\Details.cshtml",
-              "RelativeToolTip": "Garden Helper Site\\Pages\\Plants\\Details.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-09-21T18:03:09.11Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 16,
               "Title": "Edit.cshtml.cs",
               "DocumentMoniker": "C:\\Users\\dylan\\Documents\\Capstone\\Garden Helper\\Garden Helper Site\\Pages\\Plants\\Edit.cshtml.cs",
               "RelativeDocumentMoniker": "Garden Helper Site\\Pages\\Plants\\Edit.cshtml.cs",
@@ -181,25 +94,24 @@
               "RelativeToolTip": "Garden Helper Site\\Pages\\Plants\\Edit.cshtml.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-21T18:03:09.022Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-21T18:03:09.022Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 3,
               "Title": "Edit.cshtml",
               "DocumentMoniker": "C:\\Users\\dylan\\Documents\\Capstone\\Garden Helper\\Garden Helper Site\\Pages\\Plants\\Edit.cshtml",
               "RelativeDocumentMoniker": "Garden Helper Site\\Pages\\Plants\\Edit.cshtml",
               "ToolTip": "C:\\Users\\dylan\\Documents\\Capstone\\Garden Helper\\Garden Helper Site\\Pages\\Plants\\Edit.cshtml",
               "RelativeToolTip": "Garden Helper Site\\Pages\\Plants\\Edit.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAACoAAAAAAAAAAAAAAEoAAAAvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-09-21T18:03:08.943Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 17,
               "Title": "Create.cshtml.cs",
               "DocumentMoniker": "C:\\Users\\dylan\\Documents\\Capstone\\Garden Helper\\Garden Helper Site\\Pages\\Plants\\Create.cshtml.cs",
               "RelativeDocumentMoniker": "Garden Helper Site\\Pages\\Plants\\Create.cshtml.cs",
@@ -207,38 +119,50 @@
               "RelativeToolTip": "Garden Helper Site\\Pages\\Plants\\Create.cshtml.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-21T18:03:08.856Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-21T18:03:08.856Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 8,
               "Title": "Create.cshtml",
               "DocumentMoniker": "C:\\Users\\dylan\\Documents\\Capstone\\Garden Helper\\Garden Helper Site\\Pages\\Plants\\Create.cshtml",
               "RelativeDocumentMoniker": "Garden Helper Site\\Pages\\Plants\\Create.cshtml",
               "ToolTip": "C:\\Users\\dylan\\Documents\\Capstone\\Garden Helper\\Garden Helper Site\\Pages\\Plants\\Create.cshtml",
               "RelativeToolTip": "Garden Helper Site\\Pages\\Plants\\Create.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAAEsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-09-21T18:03:08.761Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\dylan\\Documents\\Capstone\\Garden Helper\\Garden Helper Site\\Program.cs",
-              "RelativeDocumentMoniker": "Garden Helper Site\\Program.cs",
-              "ToolTip": "C:\\Users\\dylan\\Documents\\Capstone\\Garden Helper\\Garden Helper Site\\Program.cs",
-              "RelativeToolTip": "Garden Helper Site\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "Plant.cs",
+              "DocumentMoniker": "C:\\Users\\dylan\\Documents\\Capstone\\Garden Helper\\Garden Helper Site\\Models\\Plant.cs",
+              "RelativeDocumentMoniker": "Garden Helper Site\\Models\\Plant.cs",
+              "ToolTip": "C:\\Users\\dylan\\Documents\\Capstone\\Garden Helper\\Garden Helper Site\\Models\\Plant.cs",
+              "RelativeToolTip": "Garden Helper Site\\Models\\Plant.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABwAAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-21T18:03:08.665Z",
+              "WhenOpened": "2025-09-21T03:27:04.145Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\dylan\\Documents\\Capstone\\Garden Helper\\Garden Helper Site\\Pages\\Index.cshtml",
+              "RelativeDocumentMoniker": "Garden Helper Site\\Pages\\Index.cshtml",
+              "ToolTip": "C:\\Users\\dylan\\Documents\\Capstone\\Garden Helper\\Garden Helper Site\\Pages\\Index.cshtml",
+              "RelativeToolTip": "Garden Helper Site\\Pages\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-03T16:55:36.746Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
               "Title": "Garden_Helper_SiteContext.cs",
               "DocumentMoniker": "C:\\Users\\dylan\\Documents\\Capstone\\Garden Helper\\Garden Helper Site\\Data\\Garden_Helper_SiteContext.cs",
               "RelativeDocumentMoniker": "Garden Helper Site\\Data\\Garden_Helper_SiteContext.cs",
@@ -251,20 +175,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "Plant.cs",
-              "DocumentMoniker": "C:\\Users\\dylan\\Documents\\Capstone\\Garden Helper\\Garden Helper Site\\Models\\Plant.cs",
-              "RelativeDocumentMoniker": "Garden Helper Site\\Models\\Plant.cs",
-              "ToolTip": "C:\\Users\\dylan\\Documents\\Capstone\\Garden Helper\\Garden Helper Site\\Models\\Plant.cs",
-              "RelativeToolTip": "Garden Helper Site\\Models\\Plant.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAWAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-21T03:27:04.145Z",
+              "DocumentIndex": 6,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\dylan\\Documents\\Capstone\\Garden Helper\\Garden Helper Site\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Garden Helper Site\\Pages\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\dylan\\Documents\\Capstone\\Garden Helper\\Garden Helper Site\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Garden Helper Site\\Pages\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-29T01:25:24.664Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 5,
               "Title": "InventoryExample.cshtml",
               "DocumentMoniker": "C:\\Users\\dylan\\Documents\\Capstone\\Garden Helper\\Garden Helper Site\\Pages\\InventoryExample.cshtml",
               "RelativeDocumentMoniker": "Garden Helper Site\\Pages\\InventoryExample.cshtml",
@@ -277,29 +201,116 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\dylan\\Documents\\Capstone\\Garden Helper\\Garden Helper Site\\Program.cs",
+              "RelativeDocumentMoniker": "Garden Helper Site\\Program.cs",
+              "ToolTip": "C:\\Users\\dylan\\Documents\\Capstone\\Garden Helper\\Garden Helper Site\\Program.cs",
+              "RelativeToolTip": "Garden Helper Site\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-21T18:03:08.665Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
               "Title": "site.css",
               "DocumentMoniker": "C:\\Users\\dylan\\Documents\\Capstone\\Garden Helper\\Garden Helper Site\\wwwroot\\css\\site.css",
               "RelativeDocumentMoniker": "Garden Helper Site\\wwwroot\\css\\site.css",
-              "ToolTip": "C:\\Users\\dylan\\Documents\\Capstone\\Garden Helper\\Garden Helper Site\\wwwroot\\css\\site.css",
-              "RelativeToolTip": "Garden Helper Site\\wwwroot\\css\\site.css",
-              "ViewState": "AgIAAAYAAAAAAAAAAIBJwCUAAAANAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\dylan\\Documents\\Capstone\\Garden Helper\\Garden Helper Site\\wwwroot\\css\\site.css*",
+              "RelativeToolTip": "Garden Helper Site\\wwwroot\\css\\site.css*",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAA0AAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
               "WhenOpened": "2025-09-07T19:08:05.959Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\dylan\\Documents\\Capstone\\Garden Helper\\Garden Helper Site\\Pages\\Index.cshtml",
-              "RelativeDocumentMoniker": "Garden Helper Site\\Pages\\Index.cshtml",
-              "ToolTip": "C:\\Users\\dylan\\Documents\\Capstone\\Garden Helper\\Garden Helper Site\\Pages\\Index.cshtml",
-              "RelativeToolTip": "Garden Helper Site\\Pages\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAfAAAAAAAAAA==",
+              "DocumentIndex": 10,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\dylan\\Documents\\Capstone\\Garden Helper\\Garden Helper Site\\Pages\\Plants\\Details.cshtml",
+              "RelativeDocumentMoniker": "Garden Helper Site\\Pages\\Plants\\Details.cshtml",
+              "ToolTip": "C:\\Users\\dylan\\Documents\\Capstone\\Garden Helper\\Garden Helper Site\\Pages\\Plants\\Details.cshtml",
+              "RelativeToolTip": "Garden Helper Site\\Pages\\Plants\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAE4AAAAGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-09-03T16:55:36.746Z",
+              "WhenOpened": "2025-09-21T18:03:09.11Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Details.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\dylan\\Documents\\Capstone\\Garden Helper\\Garden Helper Site\\Pages\\Plants\\Details.cshtml.cs",
+              "RelativeDocumentMoniker": "Garden Helper Site\\Pages\\Plants\\Details.cshtml.cs",
+              "ToolTip": "C:\\Users\\dylan\\Documents\\Capstone\\Garden Helper\\Garden Helper Site\\Pages\\Plants\\Details.cshtml.cs",
+              "RelativeToolTip": "Garden Helper Site\\Pages\\Plants\\Details.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-21T18:03:09.196Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\dylan\\Documents\\Capstone\\Garden Helper\\Garden Helper Site\\Pages\\Plants\\Index.cshtml",
+              "RelativeDocumentMoniker": "Garden Helper Site\\Pages\\Plants\\Index.cshtml",
+              "ToolTip": "C:\\Users\\dylan\\Documents\\Capstone\\Garden Helper\\Garden Helper Site\\Pages\\Plants\\Index.cshtml",
+              "RelativeToolTip": "Garden Helper Site\\Pages\\Plants\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-21T18:03:09.466Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\dylan\\Documents\\Capstone\\Garden Helper\\Garden Helper Site\\Pages\\Plants\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Garden Helper Site\\Pages\\Plants\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\dylan\\Documents\\Capstone\\Garden Helper\\Garden Helper Site\\Pages\\Plants\\Delete.cshtml",
+              "RelativeToolTip": "Garden Helper Site\\Pages\\Plants\\Delete.cshtml",
+              "ViewState": "AgIAADAAAAAAAAAAAAAAAFIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-21T18:03:09.281Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Delete.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\dylan\\Documents\\Capstone\\Garden Helper\\Garden Helper Site\\Pages\\Plants\\Delete.cshtml.cs",
+              "RelativeDocumentMoniker": "Garden Helper Site\\Pages\\Plants\\Delete.cshtml.cs",
+              "ToolTip": "C:\\Users\\dylan\\Documents\\Capstone\\Garden Helper\\Garden Helper Site\\Pages\\Plants\\Delete.cshtml.cs",
+              "RelativeToolTip": "Garden Helper Site\\Pages\\Plants\\Delete.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-21T18:03:09.366Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Index.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\dylan\\Documents\\Capstone\\Garden Helper\\Garden Helper Site\\Pages\\Plants\\Index.cshtml.cs",
+              "RelativeDocumentMoniker": "Garden Helper Site\\Pages\\Plants\\Index.cshtml.cs",
+              "ToolTip": "C:\\Users\\dylan\\Documents\\Capstone\\Garden Helper\\Garden Helper Site\\Pages\\Plants\\Index.cshtml.cs",
+              "RelativeToolTip": "Garden Helper Site\\Pages\\Plants\\Index.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-21T18:03:09.548Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "20250922030935_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\dylan\\Documents\\Capstone\\Garden Helper\\Garden Helper Site\\Migrations\\20250922030935_InitialCreate.cs",
+              "RelativeDocumentMoniker": "Garden Helper Site\\Migrations\\20250922030935_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\dylan\\Documents\\Capstone\\Garden Helper\\Garden Helper Site\\Migrations\\20250922030935_InitialCreate.cs",
+              "RelativeToolTip": "Garden Helper Site\\Migrations\\20250922030935_InitialCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-22T03:09:35.932Z"
             }
           ]
         }

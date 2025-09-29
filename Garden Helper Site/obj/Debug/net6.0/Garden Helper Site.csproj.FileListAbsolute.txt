@@ -250,3 +250,4 @@ C:\Users\dylan\Documents\Capstone\Garden Helper\Garden Helper Site\obj\Debug\net
 C:\Users\dylan\Documents\Capstone\Garden Helper\Garden Helper Site\obj\Debug\net6.0\staticwebassets.build.endpoints.json
 C:\Users\dylan\Documents\Capstone\Garden Helper\Garden Helper Site\obj\Debug\net6.0\staticwebassets.upToDateCheck.txt
 C:\Users\dylan\Documents\Capstone\Garden Helper\Garden Helper Site\obj\Debug\net6.0\Garden H.9D2614AA.Up2Date
+C:\Users\dylan\Documents\Capstone\Garden Helper\Garden Helper Site\obj\Debug\net6.0\Garden Helper Site.sourcelink.json
