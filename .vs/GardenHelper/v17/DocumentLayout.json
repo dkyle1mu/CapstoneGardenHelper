@@ -1,0 +1,213 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\dylan\\Documents\\Capstone\\Garden Helper ReactDocker\\GardenHelper\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2ED6A49B-5637-E495-5388-9B136CBF3A36}|gardenhelper.client\\gardenhelper.client.esproj|c:\\users\\dylan\\documents\\capstone\\garden helper reactdocker\\gardenhelper\\gardenhelper.client\\src\\app.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{2ED6A49B-5637-E495-5388-9B136CBF3A36}|gardenhelper.client\\gardenhelper.client.esproj|solutionrelative:gardenhelper.client\\src\\app.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2ED6A49B-5637-E495-5388-9B136CBF3A36}|gardenhelper.client\\gardenhelper.client.esproj|c:\\users\\dylan\\documents\\capstone\\garden helper reactdocker\\gardenhelper\\gardenhelper.client\\gardenhelper.client.esproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{2ED6A49B-5637-E495-5388-9B136CBF3A36}|gardenhelper.client\\gardenhelper.client.esproj|solutionrelative:gardenhelper.client\\gardenhelper.client.esproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2ED6A49B-5637-E495-5388-9B136CBF3A36}|gardenhelper.client\\gardenhelper.client.esproj|c:\\users\\dylan\\documents\\capstone\\garden helper reactdocker\\gardenhelper\\gardenhelper.client\\package.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{2ED6A49B-5637-E495-5388-9B136CBF3A36}|gardenhelper.client\\gardenhelper.client.esproj|solutionrelative:gardenhelper.client\\package.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2ED6A49B-5637-E495-5388-9B136CBF3A36}|gardenhelper.client\\gardenhelper.client.esproj|c:\\users\\dylan\\documents\\capstone\\garden helper reactdocker\\gardenhelper\\gardenhelper.client\\src\\app.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{2ED6A49B-5637-E495-5388-9B136CBF3A36}|gardenhelper.client\\gardenhelper.client.esproj|solutionrelative:gardenhelper.client\\src\\app.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2ED6A49B-5637-E495-5388-9B136CBF3A36}|gardenhelper.client\\gardenhelper.client.esproj|c:\\users\\dylan\\documents\\capstone\\garden helper reactdocker\\gardenhelper\\gardenhelper.client\\src\\main.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{2ED6A49B-5637-E495-5388-9B136CBF3A36}|gardenhelper.client\\gardenhelper.client.esproj|solutionrelative:gardenhelper.client\\src\\main.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{051C32C8-20C7-47F3-9E34-6A05258A7AE5}|GardenHelper.Server\\GardenHelper.Server.csproj|c:\\users\\dylan\\documents\\capstone\\garden helper reactdocker\\gardenhelper\\gardenhelper.server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{051C32C8-20C7-47F3-9E34-6A05258A7AE5}|GardenHelper.Server\\GardenHelper.Server.csproj|solutionrelative:gardenhelper.server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{051C32C8-20C7-47F3-9E34-6A05258A7AE5}|GardenHelper.Server\\GardenHelper.Server.csproj|c:\\users\\dylan\\documents\\capstone\\garden helper reactdocker\\gardenhelper\\gardenhelper.server\\plant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{051C32C8-20C7-47F3-9E34-6A05258A7AE5}|GardenHelper.Server\\GardenHelper.Server.csproj|solutionrelative:gardenhelper.server\\plant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{051C32C8-20C7-47F3-9E34-6A05258A7AE5}|GardenHelper.Server\\GardenHelper.Server.csproj|c:\\users\\dylan\\documents\\capstone\\garden helper reactdocker\\gardenhelper\\gardenhelper.server\\controllers\\gardencontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{051C32C8-20C7-47F3-9E34-6A05258A7AE5}|GardenHelper.Server\\GardenHelper.Server.csproj|solutionrelative:gardenhelper.server\\controllers\\gardencontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2ED6A49B-5637-E495-5388-9B136CBF3A36}|gardenhelper.client\\gardenhelper.client.esproj|c:\\users\\dylan\\documents\\capstone\\garden helper reactdocker\\gardenhelper\\gardenhelper.client\\src\\theme.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{2ED6A49B-5637-E495-5388-9B136CBF3A36}|gardenhelper.client\\gardenhelper.client.esproj|solutionrelative:gardenhelper.client\\src\\theme.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{051C32C8-20C7-47F3-9E34-6A05258A7AE5}|GardenHelper.Server\\GardenHelper.Server.csproj|c:\\users\\dylan\\documents\\capstone\\garden helper reactdocker\\gardenhelper\\gardenhelper.server\\gardenhelper.server.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{051C32C8-20C7-47F3-9E34-6A05258A7AE5}|GardenHelper.Server\\GardenHelper.Server.csproj|solutionrelative:gardenhelper.server\\gardenhelper.server.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2ED6A49B-5637-E495-5388-9B136CBF3A36}|gardenhelper.client\\gardenhelper.client.esproj|c:\\users\\dylan\\documents\\capstone\\garden helper reactdocker\\gardenhelper\\gardenhelper.client\\vite.config.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{2ED6A49B-5637-E495-5388-9B136CBF3A36}|gardenhelper.client\\gardenhelper.client.esproj|solutionrelative:gardenhelper.client\\vite.config.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{051C32C8-20C7-47F3-9E34-6A05258A7AE5}|GardenHelper.Server\\GardenHelper.Server.csproj|c:\\users\\dylan\\documents\\capstone\\garden helper reactdocker\\gardenhelper\\gardenhelper.server\\gardenhelper.server.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{051C32C8-20C7-47F3-9E34-6A05258A7AE5}|GardenHelper.Server\\GardenHelper.Server.csproj|solutionrelative:gardenhelper.server\\gardenhelper.server.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "gardenhelper.client",
+              "DocumentMoniker": "C:\\Users\\dylan\\Documents\\Capstone\\Garden Helper ReactDocker\\GardenHelper\\gardenhelper.client\\gardenhelper.client.esproj",
+              "RelativeDocumentMoniker": "gardenhelper.client\\gardenhelper.client.esproj",
+              "ToolTip": "C:\\Users\\dylan\\Documents\\Capstone\\Garden Helper ReactDocker\\GardenHelper\\gardenhelper.client\\gardenhelper.client.esproj",
+              "RelativeToolTip": "gardenhelper.client\\gardenhelper.client.esproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-10-05T19:43:53.289Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "package.json",
+              "DocumentMoniker": "C:\\Users\\dylan\\Documents\\Capstone\\Garden Helper ReactDocker\\GardenHelper\\gardenhelper.client\\package.json",
+              "RelativeDocumentMoniker": "gardenhelper.client\\package.json",
+              "ToolTip": "C:\\Users\\dylan\\Documents\\Capstone\\Garden Helper ReactDocker\\GardenHelper\\gardenhelper.client\\package.json",
+              "RelativeToolTip": "gardenhelper.client\\package.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-10-05T19:24:45.204Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "main.jsx",
+              "DocumentMoniker": "C:\\Users\\dylan\\Documents\\Capstone\\Garden Helper ReactDocker\\GardenHelper\\gardenhelper.client\\src\\main.jsx",
+              "RelativeDocumentMoniker": "gardenhelper.client\\src\\main.jsx",
+              "ToolTip": "C:\\Users\\dylan\\Documents\\Capstone\\Garden Helper ReactDocker\\GardenHelper\\gardenhelper.client\\src\\main.jsx",
+              "RelativeToolTip": "gardenhelper.client\\src\\main.jsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2025-10-05T18:59:33.817Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "theme.css",
+              "DocumentMoniker": "C:\\Users\\dylan\\Documents\\Capstone\\Garden Helper ReactDocker\\GardenHelper\\gardenhelper.client\\src\\theme.css",
+              "RelativeDocumentMoniker": "gardenhelper.client\\src\\theme.css",
+              "ToolTip": "C:\\Users\\dylan\\Documents\\Capstone\\Garden Helper ReactDocker\\GardenHelper\\gardenhelper.client\\src\\theme.css",
+              "RelativeToolTip": "gardenhelper.client\\src\\theme.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-10-05T00:44:55.028Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "App.css",
+              "DocumentMoniker": "C:\\Users\\dylan\\Documents\\Capstone\\Garden Helper ReactDocker\\GardenHelper\\gardenhelper.client\\src\\App.css",
+              "RelativeDocumentMoniker": "gardenhelper.client\\src\\App.css",
+              "ToolTip": "C:\\Users\\dylan\\Documents\\Capstone\\Garden Helper ReactDocker\\GardenHelper\\gardenhelper.client\\src\\App.css",
+              "RelativeToolTip": "gardenhelper.client\\src\\App.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-10-05T00:23:09.934Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "App.jsx",
+              "DocumentMoniker": "C:\\Users\\dylan\\Documents\\Capstone\\Garden Helper ReactDocker\\GardenHelper\\gardenhelper.client\\src\\App.jsx",
+              "RelativeDocumentMoniker": "gardenhelper.client\\src\\App.jsx",
+              "ToolTip": "C:\\Users\\dylan\\Documents\\Capstone\\Garden Helper ReactDocker\\GardenHelper\\gardenhelper.client\\src\\App.jsx",
+              "RelativeToolTip": "gardenhelper.client\\src\\App.jsx",
+              "ViewState": "AgIAAFEAAAAAAAAAAAAowGMAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2025-10-04T19:11:05.501Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "GardenController.cs",
+              "DocumentMoniker": "C:\\Users\\dylan\\Documents\\Capstone\\Garden Helper ReactDocker\\GardenHelper\\GardenHelper.Server\\Controllers\\GardenController.cs",
+              "RelativeDocumentMoniker": "GardenHelper.Server\\Controllers\\GardenController.cs",
+              "ToolTip": "C:\\Users\\dylan\\Documents\\Capstone\\Garden Helper ReactDocker\\GardenHelper\\GardenHelper.Server\\Controllers\\GardenController.cs",
+              "RelativeToolTip": "GardenHelper.Server\\Controllers\\GardenController.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAowBcAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-04T16:37:13.774Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "GardenHelper.Server.http",
+              "DocumentMoniker": "C:\\Users\\dylan\\Documents\\Capstone\\Garden Helper ReactDocker\\GardenHelper\\GardenHelper.Server\\GardenHelper.Server.http",
+              "RelativeDocumentMoniker": "GardenHelper.Server\\GardenHelper.Server.http",
+              "ToolTip": "C:\\Users\\dylan\\Documents\\Capstone\\Garden Helper ReactDocker\\GardenHelper\\GardenHelper.Server\\GardenHelper.Server.http",
+              "RelativeToolTip": "GardenHelper.Server\\GardenHelper.Server.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-10-04T18:51:29.844Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Plant.cs",
+              "DocumentMoniker": "C:\\Users\\dylan\\Documents\\Capstone\\Garden Helper ReactDocker\\GardenHelper\\GardenHelper.Server\\Plant.cs",
+              "RelativeDocumentMoniker": "GardenHelper.Server\\Plant.cs",
+              "ToolTip": "C:\\Users\\dylan\\Documents\\Capstone\\Garden Helper ReactDocker\\GardenHelper\\GardenHelper.Server\\Plant.cs",
+              "RelativeToolTip": "GardenHelper.Server\\Plant.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-04T16:07:41.112Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\dylan\\Documents\\Capstone\\Garden Helper ReactDocker\\GardenHelper\\GardenHelper.Server\\Program.cs",
+              "RelativeDocumentMoniker": "GardenHelper.Server\\Program.cs",
+              "ToolTip": "C:\\Users\\dylan\\Documents\\Capstone\\Garden Helper ReactDocker\\GardenHelper\\GardenHelper.Server\\Program.cs",
+              "RelativeToolTip": "GardenHelper.Server\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-04T16:04:23.895Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "GardenHelper.Server.csproj",
+              "DocumentMoniker": "C:\\Users\\dylan\\Documents\\Capstone\\Garden Helper ReactDocker\\GardenHelper\\GardenHelper.Server\\GardenHelper.Server.csproj",
+              "RelativeDocumentMoniker": "GardenHelper.Server\\GardenHelper.Server.csproj",
+              "ToolTip": "C:\\Users\\dylan\\Documents\\Capstone\\Garden Helper ReactDocker\\GardenHelper\\GardenHelper.Server\\GardenHelper.Server.csproj",
+              "RelativeToolTip": "GardenHelper.Server\\GardenHelper.Server.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-10-04T16:03:01.172Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "vite.config.js",
+              "DocumentMoniker": "C:\\Users\\dylan\\Documents\\Capstone\\Garden Helper ReactDocker\\GardenHelper\\gardenhelper.client\\vite.config.js",
+              "RelativeDocumentMoniker": "gardenhelper.client\\vite.config.js",
+              "ToolTip": "C:\\Users\\dylan\\Documents\\Capstone\\Garden Helper ReactDocker\\GardenHelper\\gardenhelper.client\\vite.config.js",
+              "RelativeToolTip": "gardenhelper.client\\vite.config.js",
+              "ViewState": "AgIAABUAAAAAAAAAAIBZwDQAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-10-04T15:59:20.251Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

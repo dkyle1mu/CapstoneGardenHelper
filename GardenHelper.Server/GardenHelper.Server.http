@@ -1,0 +1,6 @@
+@GardenHelper.Server_HostAddress = http://localhost:5212
+
+GET {{GardenHelper.Server_HostAddress}}/garden/
+Accept: application/json
+
+###
